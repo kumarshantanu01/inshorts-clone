@@ -9,8 +9,8 @@ const Featured = () =>{
                     <div className="featured-text"> <h1>As Featured In</h1>  </div>
                     <div className="featured-line"> </div>
                 </div>
-                <div className="featured-logo">
-                    <img src="./images/logos all.png" alt="iamai logo" />
+                <div >
+                    <img className="featured-logo" src="./images/logos all.png" alt="iamai logo" />
                 </div>
             </div>
         </section>

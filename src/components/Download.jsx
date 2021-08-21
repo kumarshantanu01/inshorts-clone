@@ -13,12 +13,12 @@ const Download = () =>{
                 </div>
                 <div className="download-logo">
 
-                    <div className="appstore-logo">
-                    <img src="./images/app store logo inshorts.png" alt="logo" />
+                    <div >
+                    <img className="appstorelogo" src="./images/app store logo inshorts.png" alt="logo" />
                     </div>
 
-                    <div className="playstore-logo">
-                    <img src="./images/google play logo inshorts.png" alt="logo" />
+                    <div >
+                    <img className="playstorelogo" src="./images/google play logo inshorts.png" alt="logo" />
                     </div>
 
                 </div>

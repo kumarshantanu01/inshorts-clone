@@ -10,7 +10,7 @@ const Footer = () =>{
                     <h3>Privacy Policy</h3>
                     <h3>Notification to Vendors</h3>
                     <div className="footer-logo">
-                    <img src="./images/inshortslogo.png" alt="logo"/>
+                    <img className="footer-logo" src="./images/inshortslogo.png" alt="logo"/>
                     </div>
                     <h3>Inshorts Pte. Ltd</h3>
                     <h3>© COPYRIGHT 2021</h3>
