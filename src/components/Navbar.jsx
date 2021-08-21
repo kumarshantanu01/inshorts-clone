@@ -5,8 +5,8 @@ const Navbar = () => {
     <>
         <section className="navbar">
             <div className="nav-logo-text">
-                <div className="inshortsLogo">
-                    <img src="./images/inshortslogo.png" alt="logo" />
+                <div >
+                    <img className="inshortsLogo" src="./images/inshortslogo.png" alt="logo" />
                 </div>
                 <div className="navtext">
                     <a href="http://www.inshorts.com/en/read" target="_blank">Read Now</a>

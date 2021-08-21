@@ -9,8 +9,8 @@ const Awards = () =>{
                     <div className="awards-text"> <h1>Awards</h1>  </div>
                     <div className="awards-line"> </div>
                 </div>
-                <div className="awards-logo">
-                    <img src="./images/iamai.png" alt="iamai logo" />
+                <div >
+                    <img className="awards-logo" src="./images/iamai.png" alt="iamai logo" />
                 </div>
             </div>
         </section>
