@@ -9,9 +9,9 @@ const Navbar = () => {
                     <img className="inshortsLogo" src="./images/inshortslogo.png" alt="logo" />
                 </div>
                 <div className="navtext">
-                    <a href="http://www.inshorts.com/en/read" target="_blank">Read Now</a>
-                    <a href="https://inshorts.zohorecruit.com/careers" target="_blank">Careers</a>
-                    <a href="https://blog.inshorts.com/" target="_blank">Blog</a>
+                    <a href="http://www.inshorts.com/en/read" target="_blank" rel="noreferrer">Read Now</a>
+                    <a href="https://inshorts.zohorecruit.com/careers" target="_blank" rel="noreferrer">Careers</a>
+                    <a href="https://blog.inshorts.com/" target="_blank" rel="noreferrer">Blog</a>
                 </div>
             </div>
         </section>
