@@ -1,4 +1,5 @@
 import { Box, makeStyles } from "@material-ui/core";
+import Articles from "./components/Articles";
 import Header from "./components/Header";
 import Infoheader from "./components/Infoheader";
 
@@ -24,6 +25,7 @@ function App() {
       <Header />
       <Box className={classes.container}>
         <Infoheader />
+        <Articles/>
       </Box>
     </Box>
   );
